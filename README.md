@@ -1,1 +1,2 @@
-git remote set-url origin https://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@github.com/soutCatMan/thirdRowRepo
+git remote add origin https://github.com/soutCatMan/thirdRowRepo.gitgit branch -M main
+git push -u origin main
